@@ -1,0 +1,7 @@
+"","PartID","participant ID"
+"1","Year","year of observation"
+"2","Age_Part","participant age in years"
+"3","CoronaryCA","calcium scores"
+"4","experiment","protcol code"
+"5","Sex","1 = male, 2 = female, 3 = unknown"
+"6","Demo","calibration measurements, DO NOT USE"
